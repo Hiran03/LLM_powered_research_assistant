@@ -1,4 +1,4 @@
-# NLP powered researh assistant
+# LLM based research assistant
 
 Can automatically read research papers in a folder and automatically answer/summarise queries.
 
