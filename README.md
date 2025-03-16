@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - **Training Data**:  
   - Create a file named `data.txt` containing text with which the model should be trained.  
 - **Research Papers**:  
-  - Place the research papers to be processed inside a folder.  
+  - Place the research papers to be processed inside a folder named `papers`
 
 ### **3. Fine-Tune the Model**  
 - Open and run **`main.ipynb`** to start the fine-tuning process.  
