@@ -1,1 +1,11 @@
+torch
+transformers
+huggingface_hub
+peft
+datasets
 numpy
+pandas
+PyPDF2
+langchain
+faiss-cpu
+sentence-transformers
